@@ -49,7 +49,7 @@ end
 
 -- Я не парился с цветами , просто если вам лень делать свою тему , то можете взяь готовую
 local themes = {
-    SchemeColor = Color3.fromRGB(255, 0, 0),
+    SchemeColor = Color3.fromRGB(74, 99, 135),
     Background = Color3.fromRGB(36, 37, 43),
     Header = Color3.fromRGB(28, 29, 34),
     TextColor = Color3.fromRGB(255,255,255),
@@ -58,7 +58,7 @@ local themes = {
 local themeStyles = {
     RJTheme1 = {
 	-- Цвет фона у Секций
-    SchemeColor = Color3.fromRGB(255, 0, 0),
+    SchemeColor = Color3.fromRGB(112, 112, 112),
 	-- Цвет фона в правой части UI
 	Background = Color3.fromRGB(15,15,15),
 	-- Цвет фона в левой части UI
@@ -94,7 +94,7 @@ local themeStyles = {
     },
     RJTheme3 = {
 	-- Цвет фона у Секций
-    SchemeColor = Color3.fromRGB(255, 0, 0),
+    SchemeColor = Color3.fromRGB(98, 77, 128),
 	-- Цвет фона в правой части UI
 	Background = Color3.fromRGB(15,15,15),
 	-- Цвет фона в левой части UI
